@@ -24,7 +24,7 @@
 
 - [**react-create-context**](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API.
 - [**react-contextual**](https://github.com/drcmda/react-contextual) - Tiny helper around React's new context API.
-
+- [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
 
 ## Contribute
 
