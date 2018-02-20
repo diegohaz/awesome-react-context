@@ -10,7 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate;
 - Suggested packages should be tested and documented;
-- Use the following format: `[*package*](link) - Description.`
+- Use the following format: `[**package**](link) - Description.`
 - Additions should be added to the bottom of the relevant category;
 - Link to the GitHub repo, not npmjs.com;
 - Keep descriptions short and simple, but descriptive;
