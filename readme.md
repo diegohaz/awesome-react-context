@@ -3,13 +3,6 @@
 > A curated list of stuff related to the new [React Context API](https://github.com/reactjs/rfcs/blob/master/text/0002-new-version-of-context.md)
 
 
-## Contents
-
-- [Videos](#videos)
-- [Articles](#articles)
-- [Libraries](#libraries)
-
-
 ## Videos
 
 - [Use the new React Context API](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars)
