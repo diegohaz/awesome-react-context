@@ -5,20 +5,20 @@
 
 ## Videos
 
-- [Use the new React Context API](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars)
+- [**Use the new React Context API**](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars)
 
 
 ## Articles
 
-- [React’s ⚛️ new Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) by [Kent C. Dodds](https://twitter.com/kentcdodds)
-- [What’s new in React 16.3](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
-- [The Future of State in React](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
+- [**React’s ⚛️ new Context API**](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) by [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
+- [**The Future of State in React**](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
 
 
 ## Libraries
 
-- [react-create-context](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API.
-- [react-contextual](https://github.com/drcmda/react-contextual) - Tiny helper around React's new context API.
+- [**react-create-context**](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API.
+- [**react-contextual**](https://github.com/drcmda/react-contextual) - Tiny helper around React's new context API.
 
 
 ## Contribute
