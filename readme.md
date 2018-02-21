@@ -18,7 +18,7 @@
 ## Examples
 
 - [**compare-react-state-management**](https://github.com/robertgonzales/compare-react-state-management) - React createContext vs Apollo vs MobX vs Redux in a simple todo app.
-- [**Example of React's new context API**](https://codesandbox.io/s/n4r0qq898j) - CodeSandbox example by [Kent C. Dodds](https://twitter.com/kentcdodds).
+- [**ThemeContext example**](https://codesandbox.io/s/n4r0qq898j) - CodeSandbox example using React v16.3.0-alpha.0 by [Kent C. Dodds](https://twitter.com/kentcdodds).
 
 
 ## Libraries
