@@ -18,7 +18,7 @@
 ## Examples
 
 - [**compare-react-state-management**](https://github.com/robertgonzales/compare-react-state-management) - React createContext vs Apollo vs MobX vs Redux in a simple todo app.
-- [**ThemeContext example**](https://codesandbox.io/s/n4r0qq898j) - CodeSandbox example using React v16.3.0-alpha.0 by [Kent C. Dodds](https://twitter.com/kentcdodds).
+- [**ThemeContext example**](https://codesandbox.io/s/n4r0qq898j) - CodeSandbox example using React v16.3.0-alpha.0.
 
 
 ## Libraries
@@ -26,6 +26,7 @@
 - [**react-create-context**](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API.
 - [**react-contextual**](https://github.com/drcmda/react-contextual) - Tiny helper around React's new context API.
 - [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
+
 
 ## Contribute
 
