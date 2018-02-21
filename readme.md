@@ -5,7 +5,7 @@
 
 ## Videos
 
-- [**Use the new React Context API**](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars)
+- [**Use the new React Context API**](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars) (paid)
 
 
 ## Articles
