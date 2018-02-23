@@ -28,6 +28,7 @@
 - [**react-contextual**](https://github.com/drcmda/react-contextual) - Tiny helper around React's new context API.
 - [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
 - [**react-composer**](https://github.com/jamesplease/react-composer) - Prevents deeply nested code when consuming multiple contexts at the same time.
+- [**react-connect-context**](https://github.com/Contiamo/react-connect-context) - Redux-style connector that maps context-based objects onto a component's props.
 
 
 ## Contribute
