@@ -13,6 +13,7 @@
 - [**React’s new Context API**](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
 - [**The Future of State in React**](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
+- [**Replacing redux with the new React context API**](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c) by [Didier FRANC](https://twitter.com/didierfranc)
 
 
 ## Examples
@@ -29,6 +30,7 @@
 - [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
 - [**react-composer**](https://github.com/jamesplease/react-composer) - Prevents deeply nested code when consuming multiple contexts at the same time.
 - [**react-connect-context**](https://github.com/Contiamo/react-connect-context) - Redux-style connector that maps context-based objects onto a component's props.
+- [**react-stateful**](https://github.com/didierfranc/react-stateful) - React store built on top of the new context API.
 
 
 ## Contribute
