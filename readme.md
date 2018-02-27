@@ -31,6 +31,7 @@
 - [**react-composer**](https://github.com/jamesplease/react-composer) - Prevents deeply nested code when consuming multiple contexts at the same time.
 - [**react-connect-context**](https://github.com/Contiamo/react-connect-context) - Redux-style connector that maps context-based objects onto a component's props.
 - [**react-stateful**](https://github.com/didierfranc/react-stateful) - React store built on top of the new context API.
+- [**react-zedux**](https://github.com/bowheart/react-zedux) - Create consumable contexts from observables, including Zedux/Redux stores.
 
 
 ## Contribute
