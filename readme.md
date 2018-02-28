@@ -33,6 +33,7 @@
 - [**react-stateful**](https://github.com/didierfranc/react-stateful) - React store built on top of the new context API.
 - [**react-zedux**](https://github.com/bowheart/react-zedux) - Create consumable contexts from observables, including Zedux/Redux stores.
 - [**react-translations-provider**](https://github.com/hyogman/react-translations-provider) - Setup and access a global set of translations and current locale via a context provider.
+- [**with-context**](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 
 
 ## Contribute
