@@ -6,6 +6,7 @@
 ## Videos
 
 - [**Use the new React Context API**](https://egghead.io/lessons/react-use-the-new-react-context-api) by [Andrew Van Slaars](https://twitter.com/avanslaars) (paid)
+- [**Heres how React's New Context API Works**](https://www.youtube.com/watch?v=XLJN4JfniH4) by [Wes Bos](https://twitter.com/wesbos)
 
 
 ## Articles
