@@ -1,6 +1,6 @@
 # Awesome React Context [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of stuff related to the new [React Context API](https://github.com/reactjs/rfcs/blob/master/text/0002-new-version-of-context.md)
+> A curated list of stuff related to the new [React Context API](https://reactjs.org/docs/context.html)
 
 
 ## Videos
