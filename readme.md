@@ -12,6 +12,7 @@
 
 ## Articles
 
+- [**React v16.3.0: New lifecycles and context API**](https://reactjs.org/blog/2018/03/29/react-v-16-3.html) by [Brian Vaughn](https://twitter.com/brian_d_vaughn/) (official)
 - [**React’s new Context API**](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
 - [**The Future of State in React**](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
