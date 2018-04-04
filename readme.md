@@ -40,6 +40,7 @@
 - [**react-translations-provider**](https://github.com/hyogman/react-translations-provider) - Setup and access a global set of translations and current locale via a context provider.
 - [**with-context**](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [**constate**](https://github.com/diegohaz/constate) - React Context + State = constate.
+- [**react-motive**](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.
 
 
 ## Contribute
