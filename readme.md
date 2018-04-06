@@ -2,11 +2,13 @@
 
 > A curated list of stuff related to the new [React Context API](https://reactjs.org/docs/context.html)
 
-<br><br>
+<br>
+<hr>
 <p align="center">
 <strong>Small advertisement</strong> 🙈<br>
   <a href="https://github.com/diegohaz/constate"><strong>constate</strong></a> is a ~2kB state management library that lets you write local state with ease and scale up to global state when needed using React Context.</p>
-<br><br>
+<hr>
+<br>
 
 ## Videos
 
