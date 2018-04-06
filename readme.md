@@ -35,7 +35,7 @@
 - [**react-broadcast**](https://github.com/ReactTraining/react-broadcast/tree/next) - Reliably communicate state changes to deeply nested React elements.
 - [**react-composer**](https://github.com/jamesplease/react-composer) - Prevents deeply nested code when consuming multiple contexts at the same time.
 - [**react-connect-context**](https://github.com/Contiamo/react-connect-context) - Redux-style connector that maps context-based objects onto a component's props.
-- [**react-stateful**](https://github.com/didierfranc/react-stateful) - React store built on top of the new context API.
+- [**react-waterfall**](https://github.com/didierfranc/react-waterfall) - React store built on top of the new context API.
 - [**react-zedux**](https://github.com/bowheart/react-zedux) - Create consumable contexts from observables, including Zedux/Redux stores.
 - [**react-translations-provider**](https://github.com/hyogman/react-translations-provider) - Setup and access a global set of translations and current locale via a context provider.
 - [**with-context**](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
