@@ -25,6 +25,7 @@
 - [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
 - [**The Future of State in React**](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
 - [**Replacing redux with the new React context API**](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c) by [Didier FRANC](https://twitter.com/didierfranc)
+- [**React's new context API: how to toggle between local and global state**](https://medium.freecodecamp.org/reacts-new-context-api-how-to-toggle-between-local-and-global-state-c6ace81443d0) by [Diego Haz](https://twitter.com/diegohaz)
 
 
 ## Examples
