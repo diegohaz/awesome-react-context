@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
 <strong>Featured</strong> 🔥<br>
-  <a href="https://github.com/diegohaz/constate"><strong>constate</strong></a> is a ~2kB state management library that lets you write local state with ease and scale up to global state when needed using React Context.</p>
+React context + state = <a href="https://github.com/diegohaz/constate"><strong>constate</strong></a></p>
 <hr>
 <br>
 
