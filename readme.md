@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
 <strong>Featured</strong> 🔥<br>
-  <a href="https://github.com/diegohaz/constate"><strong>constate</strong>: a state management library using React Context</a></p>
+  <a href="https://github.com/diegohaz/constate"><strong>Constate</strong>, a state management library using React Context</a></p>
 <hr>
 <br>
 
