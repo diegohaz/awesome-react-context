@@ -49,7 +49,7 @@
 - [**with-context**](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [**constate**](https://github.com/diegohaz/constate) - React Context + State = constate.
 - [**react-motive**](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.
-
+- [**unstated**](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 
 ## Contribute
 
