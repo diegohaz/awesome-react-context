@@ -49,6 +49,7 @@
 - [**with-context**](https://github.com/SunHuawei/with-context) - Decorator for new React Context API.
 - [**constate**](https://github.com/diegohaz/constate) - React Context + State = constate.
 - [**react-motive**](https://github.com/colevoss/react-motive) - Small wrapper around the React Context API with actions/dispatch style state management.
+- [**react-loadable-context**](https://github.com/crubier/react-loadable-context) - Small wrapper around the React Context API to asynchronously load and inject objects into the context.
 - [**unstated**](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 - [**react-storage-context**](https://github.com/giannif/react-storage-context) - Handy util for getting/setting local storage and session storage built on the Context API.
 - [**dakpan**](https://github.com/houfio/dakpan) - A small React state management library using the new React context.
