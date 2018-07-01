@@ -53,6 +53,7 @@
 - [**unstated**](https://github.com/jamiebuilds/unstated) - A tiny dependency that provides a handy wrapper around the Context API for dependency injection.
 - [**react-storage-context**](https://github.com/giannif/react-storage-context) - Handy util for getting/setting local storage and session storage built on the Context API.
 - [**dakpan**](https://github.com/houfio/dakpan) - A small React state management library using the new React context.
+- [**react-context-connector**](https://github.com/BrOrlandi/react-context-connector) - React HOC to the new Context API to keep the use as simple as React-Redux connect HOC.
 
 ## Contribute
 
