@@ -54,6 +54,7 @@
 - [**react-storage-context**](https://github.com/giannif/react-storage-context) - Handy util for getting/setting local storage and session storage built on the Context API.
 - [**dakpan**](https://github.com/houfio/dakpan) - A small React state management library using the new React context.
 - [**react-context-connector**](https://github.com/BrOrlandi/react-context-connector) - React HOC to the new Context API to keep the use as simple as React-Redux connect HOC.
+- [**react-zap**](https://github.com/troch/react-zap) - Zap props from one React component to another, using React new context API and your existing higher-order components.
 
 ## Contribute
 
