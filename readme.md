@@ -56,6 +56,7 @@
 - [**react-context-connector**](https://github.com/BrOrlandi/react-context-connector) - React HOC to the new Context API to keep the use as simple as React-Redux connect HOC.
 - [**react-zap**](https://github.com/troch/react-zap) - Zap props from one React component to another, using React new context API and your existing higher-order components.
 - [**react-providers**](https://github.com/xnimorz/react-providers) - A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.
+- [**react-context-global-state**](https://github.com/dai-shi/react-context-global-state) - A wrapper library around the Context API to define global state without explicitly using `class` components.
 
 ## Contribute
 
