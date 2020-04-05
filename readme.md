@@ -60,6 +60,7 @@
 - [**react-context-global-state**](https://github.com/dai-shi/react-context-global-state) - A wrapper library around the Context API to define global state without explicitly using `class` components.
 - [**observed-bits**](https://github.com/philosaf/observed-bits) - A tiny library that helps to avoid unnecessary re-renders of all Consumers.
 - [**folio**](https://github.com/jalal246/folio) - A dynamic form manage form global state and CSS grid using context.
+- [**react-combine-reducer**](https://github.com/hlhr202/React-Combine-Provider) - Function that merge context providers in ease. Supports [**constate**](https://github.com/diegohaz/constate) and [**unstated-next**](https://github.com/jamiebuilds/unstated-next) in a simple way.
 
 
 ## Contribute
