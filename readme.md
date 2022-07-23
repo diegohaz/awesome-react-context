@@ -21,9 +21,8 @@
 ## Articles
 
 - [**React v16.3.0: New lifecycles and context API**](https://reactjs.org/blog/2018/03/29/react-v-16-3.html) by [Brian Vaughn](https://twitter.com/brian_d_vaughn/) (official)
-- [**React’s new Context API**](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) by [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [**React Context API Blogs**](https://kentcdodds.com/blog?q=context) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
-- [**The Future of State in React**](https://jwheatley.co/the-future-of-state-in-react/) by [Juwan Wheatley](https://twitter.com/fiber_god)
 - [**Replacing redux with the new React context API**](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c) by [Didier FRANC](https://twitter.com/didierfranc)
 - [**React's new context API: toggle between local and global state**](https://medium.freecodecamp.org/reacts-new-context-api-how-to-toggle-between-local-and-global-state-c6ace81443d0) by [Diego Haz](https://twitter.com/diegohaz)
 
@@ -33,7 +32,6 @@
 - [**compare-react-state-management**](https://github.com/robertgonzales/compare-react-state-management) - React createContext vs Apollo vs MobX vs Redux in a simple todo app.
 - [**ThemeContext**](https://codesandbox.io/s/n4r0qq898j) - CodeSandbox example using React v16.3.0-alpha.0.
 - [**Themer**](https://codesandbox.io/s/n5pk7613xm) - React Context demo on CodeSandbox.
-- [**React-State**](https://gist.github.com/antoaravinth/4f46a70343ba6b9ef4109a7ab944189e) - React state using Context API, similar to redux with `connect`, `Provider` API.
 
 
 ## Libraries
@@ -58,7 +56,6 @@
 - [**react-zap**](https://github.com/troch/react-zap) - Zap props from one React component to another, using React new context API and your existing higher-order components.
 - [**react-providers**](https://github.com/xnimorz/react-providers) - A small library that creates a centralized place to store (like Redux store) your context components and HOC to use it. Automatically resolves dependencies between your context components.
 - [**react-context-global-state**](https://github.com/dai-shi/react-context-global-state) - A wrapper library around the Context API to define global state without explicitly using `class` components.
-- [**observed-bits**](https://github.com/philosaf/observed-bits) - A tiny library that helps to avoid unnecessary re-renders of all Consumers.
 - [**folio**](https://github.com/jalal246/folio) - A dynamic form manage form global state and CSS grid using context.
 - [**react-combine-reducer**](https://github.com/hlhr202/React-Combine-Provider) - Function that merge context providers in ease. Supports [**constate**](https://github.com/diegohaz/constate) and [**unstated-next**](https://github.com/jamiebuilds/unstated-next) in a simple way.
 
