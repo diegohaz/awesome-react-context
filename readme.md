@@ -21,7 +21,7 @@
 ## Articles
 
 - [**React v16.3.0: New lifecycles and context API**](https://reactjs.org/blog/2018/03/29/react-v-16-3.html) by [Brian Vaughn](https://twitter.com/brian_d_vaughn/) (official)
-- [**React Context API Blogs**]([https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b](https://kentcdodds.com/blog?q=context)) by [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [**React Context API Blogs**](https://kentcdodds.com/blog?q=context) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [**What’s new in React 16.3**](https://medium.com/@baphemot/whats-new-in-react-16-3-d2c9b7b6193b) by [Bartosz Szczeciński](https://twitter.com/btmpl)
 - [**Replacing redux with the new React context API**](https://medium.com/@DidierFranc/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c) by [Didier FRANC](https://twitter.com/didierfranc)
 - [**React's new context API: toggle between local and global state**](https://medium.freecodecamp.org/reacts-new-context-api-how-to-toggle-between-local-and-global-state-c6ace81443d0) by [Diego Haz](https://twitter.com/diegohaz)
